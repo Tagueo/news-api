@@ -1,0 +1,6 @@
+{
+    "accessTokenSecret": "long string for stonks encryption",
+    "mysqlId": "id",
+    "mysqlPass": "password",
+    "port": 8080
+}
