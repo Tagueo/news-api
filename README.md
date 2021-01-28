@@ -1,4 +1,4 @@
-# Project Beaver's API & Database
+# News API & Database
 
 ## API Types :
 
